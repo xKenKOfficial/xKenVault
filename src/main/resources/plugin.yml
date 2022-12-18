@@ -1,0 +1,17 @@
+name: xKenVault
+version: '${project.version}'
+api-version: 1.13
+main: com.github.xKenKOfficial.Vault.Basic.Main
+prefix: xKenVault
+author: xKenKOfficial
+authors: [ xKenKOfficial ]
+description: Plugin na walute serwera.
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  money:
+    aliases: [pieniadze, coins]
+  pay:
+    aliases: [przelew, paycoins]
+  setmoney:
+    aliases: [setcoins, dajhajs]

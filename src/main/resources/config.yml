@@ -1,0 +1,44 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenVault"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji do komendy:
+no_permission: "&4Blad&8: &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz jest offline:
+offline_player: "&4Blad&8: &cTego gracza nie ma na serwerze!"
+
+# Tutaj mozna ustawic wiadomosc, jesli podano za duzo argumentow przy komendzie:
+wrong_args: "&4Blad&8: &cZa duza ilosc argumentow!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz sprawdza swoj stan konta:
+money_status: "&8>> &7Twoj status pieniedzy wynosi&8: &b{MONEY} PLN&7."
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia dla komendy /setmoney:
+setmoney_command_execute: "&4Blad&8: &7Poprawne uzycie&8: &b/setmoney (gracz) (ilosc)"
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator przelal pieniadze na konto gracza:
+setmoney_admin_message: "&8>> &7Pomyslnie przelano graczowi &b{GRACZ} &7na konto&8: &3{MONEY} PLN&7."
+
+# Tutaj mozna ustawic wiadomosc do gracza, jesli otrzymal od administratora pieniadze:
+setmoney_player_message: "&8>> &7Administrator &b{ADMIN} &7przelal na twoje konto&8: &3{MONEY} PLN&7."
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia dla komendy /pay:
+pay_command_usage: "&4Blad&8: &7Poprawne uzycie&8: &b/pay (gracz) (ilosc)"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz przelal pieniadze na konto innego gracza:
+pay_player_send_money_to_player: "&8>> &7Przelales &b{MONEY} PLN &7na konto gracza&8: &3{GRACZ}"
+
+# Tutaj mozna ustawic wiadomosc do gracza, jesli otrzymal od innego pieniadze:
+pay_player_recipient_of_money: "&8>> &7Otrzymales od gracza &b{GRACZ} &7na konto &3{MONEY} PLN&7."
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz nie posiada wystarczajacej ilosci pieniedzy, aby je przelac na konto innego gracza:
+pay_player_doesnt_have_that_much_money: "&4Blad&8: &cNie posiadasz wystarczajacej ilosci pieniedzy aby je przelac na konto tego gracza!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz probuje przelac pieniadze sam do siebie:
+pay_player_is_target_player: "&4Blad&8: &cNie mozesz sam do siebie przelac pieniedzy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli nie podano sumy pieniedzy do przelania dla innego gracza:
+pay_money_error: "&4Blad&8: &cNie podales ilosci pieniedzy do przelania dla tego gracza!"
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
